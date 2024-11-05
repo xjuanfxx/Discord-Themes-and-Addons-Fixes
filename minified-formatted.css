@@ -168,7 +168,7 @@
 .theme-dark .wrapper_ba23fe {
   background: rgba(255, 255, 255, 0.05) !important;
 }
-.userProfileInner_c69a7b .inner_dc0b43 {
+.userProfileInner_c69a7b .inner_c59af2 {
   background: rgb(var(--bg-overlay-color-inverse) / 0.1);
 }
 .tier2_c87d73::before {
@@ -399,7 +399,7 @@
   width: calc(100% - 16px);
   left: 16px;
 }
-.root_bc9cc2:has(.userProfileOuter_c69a7b) {
+.root_b9fccc:has(.userProfileOuter_c69a7b) {
   overflow: visible;
 }
 .inner__999f6::before,
@@ -453,7 +453,7 @@
   > div
   > svg
   > foreignObject
-  > .banner_c3e427,
+  > .banner_d5fdb1,
 :not(aside):not(.customizationSection_b3a5c2)
   > svg
   > foreignObject
