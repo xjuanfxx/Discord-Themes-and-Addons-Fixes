@@ -30,7 +30,7 @@
     --font-display: var(--your-font-here), var(--fallback-font);
     font-family: var(--font-display) !important;
     /* other */
-    height: 110px;
+    height: 60px;
     border: none;
     background: transparent !important;
     position: relative;
